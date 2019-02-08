@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+        <body>
+        <table border=8>
+        <tr>
+            <th>sunday</th>
+            <th>monday</th>
+            <th>tuesday</th>
+            <th>wednesday</th>
+            <th>thursdays</th>
+            <th>friday</th>
+            <th>saturday</th>
+        </tr>
+        <tr>
+            <td>toast</td>
+            <td>donut</td>
+            <td>donut</td>
+            <td>donut</td>
+            <td>donut</td>
+            <td>donut</td>
+            <td>toast</td>
+        </tr>
+    <tr>
+        <td> come home after work</td>
+        <td>play video games</td>
+        <td>hang with the homie josh</td>
+        <td>play video games</td>
+        <td>play video games</td>
+        <td>relax</td>
+        <td>come home after work</td>
+    </tr>
+    <tr>
+        <td>parents</td>
+        <td>family</td>
+        <td>family</td>
+        <td>family</td>
+        <td>family</td>
+        <td>josh</td>
+        <td>parents</td>
+    </tr>
+    <tr>
+        <td>home</td>
+        <td>home</td>
+        <td>home</td>
+        <td>home</td>
+        <td>home</td>
+        <td>home</td>
+        <td>home</td>
+    </tr>
+ 
+    </body>
+</html>
