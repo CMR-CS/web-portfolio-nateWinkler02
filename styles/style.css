@@ -1,0 +1,72 @@
+body{
+    background-color:darkgrey;
+    background-image: url("/images/uuuuh.jpg");
+    font-size: 20px;
+}
+p{
+    font-size:20px;
+    color:blueviolet
+}
+
+nav ul{
+    list-style: none;
+    font-size: 20px;
+}
+p1{
+    color:yellow;
+}
+
+h1{
+    color:yellow;
+    font-family: 'Luckiest Guy',cursive;
+    
+}
+
+
+p::first-letter{
+    font-size: 20px;
+    font-style:bold;
+    background-color:
+        
+}
+
+nav ul{
+    
+}
+
+nav ul li{
+    float:left;
+    margin-right: 0.5em;
+}
+nav ul li a{
+    padding:0.1em .5em ;
+    text-decoration: none;/*no under*/
+    background-color: ;/* pale bluish white*/
+    color: black;/* dark blue*/
+    border: 2px solid black;
+    border-top-left-radius: 1em 1em;/*rounded corner*/
+   
+    
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    color:yellow;
+}
+main{
+      font-family: 'Open Sans', sans-serif;
+    width: 80%;
+    margin:50px auto 20px auto;
+    border: 5px solid;
+    padding: 20px;
+    color: deeppink;
+    clear:both;
+}
+main p{
+    color:white;
+    font-size: 20px
+}

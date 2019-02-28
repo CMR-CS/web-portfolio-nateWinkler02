@@ -11,6 +11,10 @@
 }
 
 
+div > span {
+  font-size: 10px;
+}
+
 
 
 #subtitle {
@@ -21,6 +25,21 @@
 h3 {
     color: #1B75BB;    
 }
+ul{
+    list-style:none;
+}
+a {
+  text-decoration: none;
+  color: #1B75BB;
+}
+a:hover {
+  color: #2898EF;
+}
+a:active {
+  color: #155D95;
+}
+
+
 
 span {
     font-weight: bold;
